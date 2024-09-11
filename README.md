@@ -1,6 +1,6 @@
 # Activity 3: Program Memory, Pointers, Malloc
 
-## Put name here
+## Bambi & Quinn
 
 Folder: `activities_early_pointers`
 
